@@ -1,5 +1,5 @@
 # Wheather_App
-# 🌤️ Weather App
+ Weather App
 
 A modern and responsive Weather Application built using **HTML, CSS, and JavaScript** that provides real-time weather updates for any city worldwide.
 
@@ -7,11 +7,11 @@ This project demonstrates API integration, asynchronous JavaScript (fetch), and 
 
 ---
 
-## 🚀 Live Demo
+# Live Demo
 
 (Add your deployed project link here)
 
-## 📌 Features
+# Features
 
 ✅ Search weather by city name  
 ✅ Real-time temperature display  
@@ -25,10 +25,10 @@ This project demonstrates API integration, asynchronous JavaScript (fetch), and 
 
 ---
 
-## 📂 Project Structure
+# Project Structure
 
 
-##  How It Works
+# How It Works
 
 1. User enters a city name.
 2. JavaScript sends a request to the Weather API.
@@ -37,7 +37,7 @@ This project demonstrates API integration, asynchronous JavaScript (fetch), and 
    - Temperature
    - Weather Condition
 
-## 🔑 API Setup (Important)
+# API Setup (Important)
 
 1. Create a free account at OpenWeatherMap.
 2. Generate your API key.
